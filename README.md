@@ -1,2 +1,2 @@
 # hello-world
-Practice using github by setting up a hello-world account
+Changing the readme.txt file 7Jul16.
